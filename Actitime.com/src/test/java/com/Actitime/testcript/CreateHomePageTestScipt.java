@@ -9,7 +9,7 @@ public class CreateHomePageTestScipt extends BaseClass {
 	
 	@Test
 	public void CreateCustomer() {
-		   Reporter.log("Created First TC");
+		   Reporter.log("Created First TC",true);
 	   } 
 
 }
